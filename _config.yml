@@ -1,0 +1,28 @@
+name: The Globe Wanderer
+favicon: null
+layout_spectrum: 0.8782265263143927
+typography_spectrum: 0.7201476041227579
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.33657930279150605
+  lightness: 0.49733557808212936
+  saturation: 0.7996763421688229
+  rhythmicContrast: 0.4602981444913894
+purpose: []
